@@ -1,0 +1,7 @@
+=====start circle conversion=====
+=====markers information=====
+個数:1363
+平均サイズ:263.53264856933237 (pixel)
+平均サイズ(換算後):0.004524804335040122 μm^2
+平均半径(換算後):0.037951152194505816 μm
+=====start color conversion=====

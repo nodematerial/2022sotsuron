@@ -1,0 +1,8 @@
+2022-01-07 06:17:06,401: [start program]   :::utils:22 <module> [INFO] 
+2022-01-07 06:17:06,639: =====start circle conversion=====   :::utils:338 to_circle [INFO] 
+2022-01-07 06:17:15,733: =====markers information=====   :::utils:252 markers_info [INFO] 
+2022-01-07 06:17:15,733: 領域の個数:1381   :::utils:253 markers_info [INFO] 
+2022-01-07 06:17:15,734: 平均サイズ:256.1 pixel   :::utils:254 markers_info [INFO] 
+2022-01-07 06:17:15,734: 平均サイズ(換算後):4397 nm^2   :::utils:259 markers_info [INFO] 
+2022-01-07 06:17:15,734: 平均半径(換算後):37.41 nm   :::utils:260 markers_info [INFO] 
+2022-01-07 06:17:17,258: =====start color conversion=====   :::utils:62 colorizer2 [INFO] 
